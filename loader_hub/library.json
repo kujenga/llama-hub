@@ -595,5 +595,13 @@
       "pymupdf",
       "pdf"
     ]
+  },
+  "ZoteroItemReader": {
+    "id": "zotero",
+    "author": "kujenga",
+    "keywords": [
+      "zotero",
+      "pdf"
+    ]
   }
 }
